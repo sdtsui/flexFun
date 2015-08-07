@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module '/Users/sdt/TESTPROJECTS/browserify_hello/app.js' from '/Users/sdt/TESTPROJECTS/browserify_hello'");
